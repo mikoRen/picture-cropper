@@ -1,0 +1,29 @@
+.pic-cropper{
+    border:1px solid #099;
+    width: 500px;
+    height: 640px;
+    margin:auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 20px;
+}
+
+#submit {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#export {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#result-canvas {
+    border:1px solid #CCCCCC
+}
+
+#image-canvas {
+    border:1px solid #CCCCCC
+
+}
